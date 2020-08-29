@@ -1,5 +1,4 @@
 -- Schema for Burger DB
-
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
