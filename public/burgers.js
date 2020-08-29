@@ -1,8 +1,6 @@
 $(function() {
     $(".change-devour").on("click", function(event) {
-        console.log("button was clicked");
         var id = $(this).data("id");
-        console.log(id);
         var newDevour = $(this).data("newdevour");
 
         var newDevourState = {
