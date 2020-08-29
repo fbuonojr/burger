@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fbuonojr/homework_13/issues"
   },
-  "homepage": "https://github.com/fbuonojr/homework_13#readme"
+  "homepage": "https://github.com/fbuonojr/homework_13#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
